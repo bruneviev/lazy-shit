@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Press Start 2P Regular';
+    src: url('PressStart2P-Regular.ttf') format('truetype');
+}
+
+#be{
+    padding: 8px;
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-style: groove;
+    border-color: rgb(212, 178, 212);
+
+}
+
+#stone{
+    width: 600px;
+    height: 300px;
+    margin-top: 32px;
+}
+
+#thief{
+    color: #21022d;
+    padding: 16px;
+    background-color: rgba(226, 216, 231, 0.8);
+    margin: 24px;
+}
+
+#care{
+    margin-top: 32px;
+}
+
+#million{
+    padding: 8px;
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+}
+
+#pain{
+    text-align: center;
+    margin-top: 64px;
+}
+
+h3{
+    margin-top: 64px;
+}
+
+h2{
+    margin-top: 0;
+    color: rgb(223, 104, 187);
+    font-size: 20px;
+}
+
+body{
+    background-image: url(../imagens/vitaminas/milkshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Press Start 2P Regular';
+}
+
+#badtype{
+    width: 100px;
+    height: 100px;
+    border: none;
+}
